@@ -15,7 +15,7 @@ while (*Ptr)
 {
 putchar(*Ptr++);
 }
-putchar(getchar()); // Echo terminal
+putchar(getchar()); // Easdasdasdgas dasgjdgjasghas cho terminal
 }
 }
 void init_serial (void)
